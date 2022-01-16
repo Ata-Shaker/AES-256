@@ -4,8 +4,7 @@ Written in C & Python (Python files haven't been added yet!)<br />
 
 ## How to use:
 ### For C:
-First, you need to compile the files. It should be noted that the header and main files must be in the same directory. <br />
-Then, run the output file.<br />
+First, you need to compile the files. It should be noted that the header and main files must be in the same directory. Then, run the output file.<br />
 In Linux, you should run:<br />
 ``` markdown
 gcc main.c
